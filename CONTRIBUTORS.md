@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vishnu Prasad](https://github.com/vpsquare)
+- Place: Kerala, India
+- Bio:Developer
+- Github: [Vishnu Prasad](https://github.com/vpsquare)
